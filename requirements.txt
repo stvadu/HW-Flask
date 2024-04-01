@@ -1,0 +1,9 @@
+requests
+flask
+psycopg2-binary
+psycopg2
+SQLAlchemy==1.4.48
+pydantic
+typing-extensions
+python-dotenv
+os
